@@ -1,4 +1,4 @@
-## Meu Front
+## Projeto
 Este pequeno projeto faz parte do MVP da  **Puc-Rio - Sprint III  - Do curso de pós graduação em Engenharia de Software** 
 
 Este projeto visa implementar um pequeno de cadastro de pessoa, utilizando um micro serviço para realizar a busca por CEP. Ao buscar o CEP digitado é esperado trazer o bairro, a cidade e a UF deste CEP. O objetivo aqui é apresetar a utilização de um micro serviço e uma API implementada seguindo o estilo REST.
