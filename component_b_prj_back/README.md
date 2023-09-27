@@ -9,6 +9,7 @@ As principais tecnologias que serão utilizadas aqui é o:
  - [SQLAlchemy](https://www.sqlalchemy.org/)
  - [OpenAPI3](https://swagger.io/specification/)
  - [SQLite](https://www.sqlite.org/index.html)
+ - [Docker](https://docs.docker.com)
 
 ---
 ## Uso da API externa https://viacep.com.br
