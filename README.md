@@ -4,13 +4,13 @@ Este pequeno projeto faz parte do MVP da  **Puc-Rio - Sprint III  - Do curso de 
 Este projeto visa implementar um pequeno de cadastro de pessoa, utilizando um micro serviço para realizar a busca por CEP. Ao buscar o CEP digitado é esperado trazer o bairro, a cidade e a UF deste CEP. O objetivo aqui é apresetar a utilização de um micro serviço e uma API implementada seguindo o estilo REST.
 
 ## Apresentação do Projeto
-
+https://youtu.be/-PhAvI7iL9Y
 
 ## Apresentação do FrontEnd
-
+https://youtu.be/IcCn8Aw2DBE
 
 ## Apresentação do BackEnd
-
+https://youtu.be/WJNNTogJIF0
 
 ## Apresentação da API externa https://viacep.com.br
 Webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil.
