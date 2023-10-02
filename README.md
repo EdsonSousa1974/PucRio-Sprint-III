@@ -2,7 +2,7 @@
 Este projeto visa implementar um pequeno de cadastro de pessoa, utilizando microsserviço para realizar a busca por CEP. Ao buscar o CEP digitado é esperado trazer o bairro, a cidade e a UF deste CEP. O objetivo aqui é apresetar a utilização de um microsserviço e uma API implementada seguindo o estilo REST.
 
 ## As principais tecnologias utilizadas aqui:
-Python, JavaScrit, HTML e CSS
+Python, JavaScript, HTML e CSS
 Flask
 SQLAlchemy
 OpenAPI3
@@ -15,7 +15,7 @@ Este pequeno projeto faz parte do MVP da  **Puc-Rio - Sprint III  - Do curso de 
 https://youtu.be/-PhAvI7iL9Y
 
 ## Apresentação do FrontEnd
-Desenvolvido em JavaScrit, HTML e CSS
+Desenvolvido em JavaScript, HTML e CSS
 https://youtu.be/IcCn8Aw2DBE
 
 ## Apresentação do BackEnd
