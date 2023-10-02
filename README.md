@@ -1,5 +1,5 @@
 ## Projeto
-Este projeto visa implementar um pequeno de cadastro de pessoa, utilizando microsserviço para realizar a busca por CEP. Ao buscar o CEP digitado é esperado trazer o bairro, a cidade e a UF deste CEP. O objetivo aqui é apresetar a utilização de um micro serviço e uma API implementada seguindo o estilo REST.
+Este projeto visa implementar um pequeno de cadastro de pessoa, utilizando microsserviço para realizar a busca por CEP. Ao buscar o CEP digitado é esperado trazer o bairro, a cidade e a UF deste CEP. O objetivo aqui é apresetar a utilização de um microsserviço e uma API implementada seguindo o estilo REST.
 
 ## As principais tecnologias utilizadas aqui:
 Python, JavaScrit, HTML e CSS
